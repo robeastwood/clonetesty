@@ -11,6 +11,6 @@
 ############################################
 
 Blocks:
-  repo: ArqivaWiFi/Blocks
-  develop_branch: master
-  tag: v1.0.1
+  repo: ArqivaWiFi/Argo
+  develop_branch: develop
+  tag: v2.4.4
