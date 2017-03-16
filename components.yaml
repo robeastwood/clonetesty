@@ -16,5 +16,5 @@ Argo:
   tag: v2.4.4
 Static:
   repo: ArqivaWiFi/Static
-  develop_branch: develop
+  develop_branch: master
   tag: v1.0.2
