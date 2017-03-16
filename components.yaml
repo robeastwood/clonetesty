@@ -1,0 +1,16 @@
+############################################
+# Swarm Component Versioning
+#
+# This file lists all of the Swarm components that are currently in use.
+#
+# For each component:
+#   repo: set the path to the Github repo.
+#   develop_branch: in order to present documentation prior to release, set the branch that contains the latest code.
+#   tag: set the release tag that is to be used as of the current release.
+#
+############################################
+
+Blocks:
+  repo: ArqivaWiFi/Blocks
+  develop_branch: master
+  tag: v1.0.1
