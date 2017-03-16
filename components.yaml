@@ -10,7 +10,7 @@
 #
 ############################################
 
-Blocks:
+Argo:
   repo: ArqivaWiFi/Argo
   develop_branch: develop
   tag: v2.4.4
