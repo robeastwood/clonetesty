@@ -1,1 +1,1 @@
-Hello! this is clonetesty as of v4
+Hello! this is clonetesty central for v5
