@@ -28,4 +28,4 @@ Blocks:
   tag: v1.0.1
 Docs:
   repo: ArqivaWiFi/Docs
-  develop_branch: init_docs
+  develop_branch: feature/init_docs
