@@ -14,7 +14,18 @@ Argo:
   repo: ArqivaWiFi/Argo
   develop_branch: develop
   tag: v2.4.4
+Jason:
+  repo: ArqivaWiFi/Jason
+  develop_branch: develop
+  tg: v1.0.0
 Static:
   repo: ArqivaWiFi/Static
   develop_branch: master
   tag: v1.0.2
+Blocks:
+  repo: ArqivaWiFi/Blocks
+  develop_branch: develop
+  tag: v1.0.1
+Docs:
+  repo: ArqivaWiFi/Docs
+  develop_branch: init_docs
