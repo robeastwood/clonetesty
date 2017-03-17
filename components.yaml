@@ -20,7 +20,7 @@ Jason:
   tg: v1.0.0
 Static:
   repo: ArqivaWiFi/Static
-  develop_branch: master
+  develop_branch: develop
   tag: v1.0.2
 Blocks:
   repo: ArqivaWiFi/Blocks
