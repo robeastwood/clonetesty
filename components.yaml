@@ -17,7 +17,7 @@ Argo:
 Jason:
   repo: ArqivaWiFi/Jason
   develop_branch: develop
-  tg: v1.0.0
+  tag: v1.0.0
 Static:
   repo: ArqivaWiFi/Static
   develop_branch: develop
